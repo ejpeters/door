@@ -129,10 +129,10 @@
   ],
   "images": [
     {
-      "uri": "textures/Door_baseColor.png"
+      "uri": "Door_baseColor.png"
     },
     {
-      "uri": "textures/Door_metallicRoughness.png"
+      "uri": "Door_metallicRoughness.png"
     }
   ],
   "materials": [
